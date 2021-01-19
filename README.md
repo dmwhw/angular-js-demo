@@ -1,6 +1,6 @@
 npm install -g angular-cli
 
-
+yarn install 建议
 
 # AngularJsDemo
 
